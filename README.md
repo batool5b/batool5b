@@ -1,6 +1,6 @@
 ![alt text](img/Header.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono+SemiBold&weight=600&pause=1000&color=000000&center=true&random=false&width=435&lines=%3C%2FHello%2C+World!+%F0%9F%92%BB%3E)](https://git.io/typing-svg)
-![alt text](img/Artboard 3.png)
+![alt text](img/img.png)
 <!---
 - 👋 Hi, I’m @batool5b
 - 👀 I’m interested in ...
