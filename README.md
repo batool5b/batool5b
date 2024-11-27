@@ -23,10 +23,6 @@
 ### 💻 Workspace
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br>
-## 🔝 Most used languages
-<p align="center">
-  <img alt="languages" width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batool5b&layout=compact&hide_border=true" />
-</p> 
 
 
 ![alt text](img/img.png)
